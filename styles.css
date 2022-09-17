@@ -22,7 +22,7 @@ body{
 .left-section{
     grid-column: span 2;
     height: 100%;
-    background-color: #00324A;
+    background-color: #1e272e;
 }
 .right-section{
     grid-column: span 5;
@@ -119,24 +119,29 @@ body{
     border-radius: 12px;
 }
 .js-progress{
-    width: 70%;
-}
-.ps-progress{
     width: 90%;
 }
+.ps-progress{
+    width: 60%;
+}
 .j-progress{
-    width: 85%;
+    width: 95%;
 }
 .c-progress{
-    width: 40%;
+    width: 75%;
 }
 .n-progress{
-    width: 63%;
+    width: 70%;
 }
 .w-progress{
-    width: 78%;
+    width: 55%;
 }
-
+.ps-mysql{
+    width: 75%;
+}
+.ps-mongo{
+    width: 75%;
+}
 
 .skill-title{
     text-transform: uppercase;
